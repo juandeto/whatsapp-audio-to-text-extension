@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ws-audio-to-text",
+  "private_key_id": "7aa07e9b958b5e57523bf7dccb4621a4bbeded40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXoPC/DKK5mqnC\nKj4VflcIJP1XSoQsKnvL2X+2l96AevGSz+iPzFwMW0RCoZvz1UVr24TOc9SqjT2H\nP8oG9PhRQfLuWl5e5397DkHg9sib0H2JZcRlvgBMTzRN1SCMHnELG2R2t3x1Zpv8\nh1rzrw2peWblXM4L8+s0ObAL8+lq1UxhzOr9TTImFeeLdJJ5zwa7RF8yxa6xIIiC\n7TFalfochRwQndx++fbALClxuCeQWQU1J1SNh7zeP7NVIoeBPlOJpVQGfdFAmhdp\nZkC6Cz0y6S8ZOVTe+3xC+aiT8ucULqpROoiD6VE/DXPCJ/V9hlqG2hQtov3tgs4P\n15hcM5jtAgMBAAECggEASGJObtPfDE9PDU8A6FYxARrpsJPjKrBYPmYU6Uax+o9K\n6O3CNAN2Iu/ASl3V7FR7qWlXe7aGfXpMXUqclxlFAoIQ+tJ7O4Ca2sQ+eTZewW+L\ntMPk2gKeNv+fn0EcW+0cJY5cez29GewIEQ2fCo6JF4sZb4Vn5btMCYwT/O80PBgg\nY31M3lCOv6OG2D7JhgAIEu5GEmV6+oFbQM+uVCnxHLbFcZShSzssC7kAj3pAfxT7\nROkIX+Fwelw6OnFpmnECVBKC7rEMmOoBMQiItJ7SZtLoG0ZJebX+/B+doviSWUeZ\npXD7lqTYmp9kfskLrDMIGY7zIBSzNRyQawIzgKEYQQKBgQDzo6hsi8DQSRqcmIF6\nRwZQFStnZT7ioU8Vj500IGKLPcwt649qWu3vpXhLUk0fDk4apMu7KuRp/02UofQX\ndyD82EMK1TYzAlKRlCNKPgNszw0AFlloWWgYHXOznhHgB4HX43NDi1KFWrhSlo5t\n3VIO/QYIGeVVpE65VpaHOpV+ZwKBgQDikXxeGVQA3DXdVk4d6g/benUF8eI+MQBM\nwgiBXyekabVeIQeGEFpTW864mfxxCJaeTOjxWHhPwTHtSLxyghQRMB4P1aHI8vww\nD5wH1R+/8Lzq480QdHQC71xTI2vbdh/ZKnFteE4CE7dB9aK3mYRNoEY3GK08L7L+\nG4cWrw/xiwKBgQDt8LMX7xSLVhnLPZWV2a9snoAZJmPX6TnXEL6ynb4fxmaVoiwZ\n7lvZY3yr8uCmp83Xb4IYdLdGXbNiqRg9onZw+LPg7IFWJ7qDum0MoKuvpDZKE4mV\nw1tJ0dmhXYqPhEVmlheHq5UX75V78tV+rlrpkGpHlyLGFQVdNBcmUiyVmQKBgHWx\nlaVcCuMXgXOk7ZdkizA8AKZB7IDZ+4nkEX8C6xjhQLHQ/pOJ0yISQuRqOVSOXY+F\n7EvS5Uyo00Kr0hi5sarsD/GxzAUTFCXzNd5ru759U+XAyDmQBOOxa4hUkibCyfCJ\nt7piEEPL8hp1ez1cpfmdFFxymSr2rEiMDDSgY+vZAoGBAKxGZwhQ79LC9B0pCwwN\nu6FrgEyF144Bd1k2nhftFUFWjzVHAOGyNRYN8jaAgxo9OUbUKkjrtrrmrpW5LQu9\nV4gklXC8JpFLt/5suEllm/0paF0XrJFQ479jfGPQJx501AWb9eUDZI5By/Rr0M7w\nIVO4fjviWKOTyap6yfFyAd9b\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-558@ws-audio-to-text.iam.gserviceaccount.com",
+  "client_id": "108563450515435683595",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-558%40ws-audio-to-text.iam.gserviceaccount.com"
+}

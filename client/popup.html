@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@200;300;600&display=swap" rel="stylesheet">
+
+    <title>Whatsapp Audio to Text</title>
+</head>
+<body>
+    <div class="title" role="heading">
+        <h1>Transcripción</h1>
+      </div>
+      <div class="answer-container">
+          <div class="answer-content" id="answer-content">
+          </div>
+        <div class="answer-options">
+          <button class="icon-button" id="copy-answer">
+            <span class="circle">
+              <img src="../assets/copy.svg" alt="copy icon" />
+            </span>
+            <span class="hover-text copy-text">Copy</span>
+          </button>
+          <button class="icon-button" id="download-answer">
+            <span class="circle">
+              <img src="../assets/download.svg" alt="download icon" />
+            </span>
+            <span class="hover-text">Download</span>
+          </button>
+        </div>
+      </div>
+      <script src="result-handler.js"></script>
+</body>
+</html>
